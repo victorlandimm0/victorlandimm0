@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Victor Landim</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong>
+  <strong>Web designer</strong>
 </p>
 
 <p align="center">

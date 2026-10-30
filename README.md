@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <strong>Web designer</strong>
+  <strong>Desenvolvedor Full Stack</strong>
 </p>
 
 <p align="center">
